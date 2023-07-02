@@ -1,6 +1,7 @@
-- 👋 Hi, I'm Ali, a Senior iOS Software Engineer.
+- 👋 Hi, I'm Ali, a Software Engineer, and an iOS Developer. 
+- I'm currently working at **[MentorMate](https://mentormate.com/)**. I'm working on developing **[Kylee](https://tactilemedical.com/kylee/)** for our client **[Tactile Medical](https://tactilemedical.com/)**
 - I specialize in building innovative and exciting mobile experiences 📱 for the Apple ecosystem using Swift and Obj-C.
-- My skillset includes expertise in iOS development 📲, Git, UIKit, SwiftUI, Unit-Testing, RxSwift, and Fastlane, just to name a few.
+- My skillset includes expertise in iOS development 📲, UIKit, SwiftUI, Combine, Unit-Testing, RxSwift, Core Data, Realm, and Fastlane, just to name a few.
 - In my professional experience, I have worked with cross-functional teams 🤝 to develop and maintain apps using Agile methodologies, and have a track record of promoting the adoption of new technologies to continuously advance and evolve codebases.
 - I am also an AI enthusiast 🤖 and a CI/CD Ninja 🔥. 
 - 📫 If you want to get in touch, feel free to send me an email at ali.elsokary.w@gmail.com 📧. You can also connect with me on LinkedIn at https://www.linkedin.com/in/alielsokary. Thanks for stopping by! 🙏
